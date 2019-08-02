@@ -11,8 +11,8 @@
 ```
 
 2、document.parentNode 和 document.parentnode 的区别？（腾讯）
-1)document.parentNode获取的是一个普通值；
-2)获取的是一个对象；
+1)document.parentnode获取的是一个普通值；
+2)document.parentNode获取的是一个对象；
 
 3.你理解的闭包作用是什么，优缺点？（乐视）
 + 闭包作用：
