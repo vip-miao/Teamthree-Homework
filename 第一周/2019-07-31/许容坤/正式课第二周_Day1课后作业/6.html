@@ -14,13 +14,11 @@
     <script>
         ~ function () {
             function plus(n) {
-                num = Number(this) + n;
-                return num
+                return this + n;
             }
 
             function minus(n) {
-                num = Number(this) - n;
-                return num;
+                return this - n;
             }
 
             Number.prototype.plus = plus;
